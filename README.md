@@ -34,10 +34,6 @@
   <a href="https://github.com/s0md3v/Photon/projects/1">Roadmap</a>
 </p>
 
-### Sponsors
-<a href="https://nubela.co/?utm_source=github&utm_medium=sponsorship&utm_campaign=oss_sponsorships&utm_content=github_readme&utm_id=py-photon"><img width="10%" alt="image" src="https://github.com/user-attachments/assets/694d51d4-8bc6-43a6-aa2c-a0ae76a1439e" /></a> website: [nubela.co](https://nubela.co/?utm_source=github&utm_medium=sponsorship&utm_campaign=oss_sponsorships&utm_content=github_readme&utm_id=py-photon)\
-Pull fresh and rich B2B profile data given a URL, in real-time.
-
 ### Key Features
 
 #### Data Extraction
